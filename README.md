@@ -1,6 +1,6 @@
-# Hello! 👋 I'm Valeria
+# Valeria Echeverry
 
-Developer with experience in Microsoft technologies including .NET Framework, .NET Core, C#, ASP.NET, and SQL Server. I currently work on banking projects, specializing in API development and web services for payment system integration. My focus is technical, and I'm passionate about creating high-quality software solutions. I enjoy learning new technologies and constantly seek opportunities to expand my knowledge.
+Experienced developer specializing in Microsoft technologies including .NET Framework, .NET Core, C#, ASP.NET, and SQL Server. I focus on financial systems development, creating robust APIs and web services for enterprise solutions. Passionate about building high-quality software with a technical approach to problem-solving. Always eager to learn and expand my expertise.
 
 ---
 
