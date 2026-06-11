@@ -38,9 +38,10 @@ Experienced developer specializing in Microsoft technologies including .NET Fram
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [your-linkedin-profile](#)
-- 📧 Email: [your-email@example.com](#)
-- 🌐 Portfolio: [your-portfolio](#)
+- 💼 LinkedIn: https://www.linkedin.com/in/valeria-echeverry-7610b11b5/
+- 📧 Email: vecheverry0021@gmail.com
+
+
 
 ---
 
